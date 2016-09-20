@@ -1,0 +1,7 @@
+---
+applications:
+  - name: espresso-gateway
+    memory: 512M
+    instances: 1
+    path: target/espresso-gateway.jar
+
